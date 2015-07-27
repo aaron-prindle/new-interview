@@ -1,0 +1,77 @@
+MIT SEAri Research Assistant/Thesis: 
+Names: Matt Fitzgerald, Adam Micheal Ross, Donna Rhodes
+Most challenging: 
+What you learned: Hadoop, MapReduce
+Most interesting: 
+Hardest bug: Debugging remotely in EMR???
+Enjoyed most: Running code on lots of computers
+Conflicts with Teammates: Matt, his thoughts on IVTea, etc.
+
+MIT App Inventor Research Assistant/Website Bug Fixing/Feature Additions & Robot Car:
+Names: 
+Most challenging: 
+What you learned: 
+Most interesting: 
+Hardest bug: 
+Enjoyed most: 
+Conflicts with Teammates: 
+
+MIT Media Lab - UAP - NDB/Justify CLI Tool:
+Names: Christopher Fry, Henry Lieberman
+Technologies: Google App Engine, NDB, Python
+Most challenging: 
+What you learned: 
+Most interesting: 
+Hardest bug: 
+Enjoyed most: 
+Conflicts with Teammates: 
+
+MIT HAL - UAV Framework(MATLAB->Java) / Python Data Munging:
+Names: Alexander Stimpson, Mary Cummings
+Most challenging: Reading through old code, understanding
+What you learned: 
+Most interesting: 
+Hardest bug: 
+Enjoyed most: 
+Conflicts with Teammates: 
+
+Online Classroom Proof Of Concept - Rails Backend:
+Names: 
+Most challenging: 
+What you learned: 
+Most interesting: 
+Hardest bug: 
+Enjoyed most: 
+Conflicts with Teammates: 
+
+Group Eating App:
+Names: Marco Rodriguez, John Rodgers
+Most challenging: 
+What you learned: 
+Most interesting: 
+Hardest bug: 
+Enjoyed most: 
+Conflicts with Teammates: 
+
+Class Notes App:
+Names: Chazz Simms, Jimmy Hernandez
+Most challenging: 
+What you learned: 
+Most interesting: 
+Hardest bug: 
+Enjoyed most: 
+Conflicts with Teammates: 
+
+Javascript Logger:
+Names: Chris Dessonville
+Most challenging: 
+What you learned: 
+Most interesting: 
+Hardest bug: 
+Enjoyed most: 
+Conflicts with Teammates: 
+
+================================================================================
+MASLAB
+OTHER APP???? - GAME
+SNAPROULETTE ????
